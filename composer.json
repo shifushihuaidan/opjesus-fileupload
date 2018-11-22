@@ -2,7 +2,7 @@
     "name": "opjesus/file-upload",
     "description": "文件上传工具",
     "type": "library",
-    "license": "Apache License 2.0",
+    "license": "MIT",
     "authors": [
         {
             "name": "opjesus",
