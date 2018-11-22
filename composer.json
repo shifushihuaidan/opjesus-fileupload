@@ -1,0 +1,21 @@
+{
+    "name": "opjesus/fileUpload",
+    "description": "文件上传工具",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "opjesus",
+            "email": "1072340870@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+      "php" : ">=5.6"
+    },
+    "autoload": {
+      "psr-4": {
+        "Opjesus\\FileUpload\\" : "src/Opjesus/FileUpload"
+      }
+   }
+}
